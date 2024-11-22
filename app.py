@@ -6,7 +6,7 @@ from  src.pipeline.predict_pipeline import CustomData , PredictPipeline
 # 
 import os
 
-st.title("Student Performance Prediction App")
+st.title("Student Performance Prediction App in aws")
 
 st.subheader("Predict the math score of a student based on various Features")
 
