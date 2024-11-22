@@ -2,6 +2,8 @@
 
 1. Docker file checked in github
 
+2. 
+
 3. Github Workflow -docker action
 4. Build CI and CD pipelines - in code
 5. add keys of username and password in github secret
