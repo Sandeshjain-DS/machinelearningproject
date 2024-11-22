@@ -1,12 +1,13 @@
 ## End to End MAchine Learning Project
 
 1. Docker file checked in github
-2. Github Workflow -docker action
-3. Build CI and CD pipelines - in code
-4. add keys of username and password in github secret
-5. create same named repo in docker hub
-6. Iam User In AWS
-7. create ec 2 instance -ubuntu add inbound rules tcp  for streamlit 8501
+
+3. Github Workflow -docker action
+4. Build CI and CD pipelines - in code
+5. add keys of username and password in github secret
+6. create same named repo in docker hub
+7. Iam User In AWS
+8. create ec 2 instance -ubuntu add inbound rules tcp  for streamlit 8501
 
 ## Docker Setup In EC2 commands to be Executed
 
